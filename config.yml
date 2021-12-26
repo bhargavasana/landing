@@ -1,0 +1,8 @@
+baseURL: https://jyotsi.com/
+languageCode: en-us
+title: Jyotsi
+
+theme: PaperMod
+
+params:
+    defaultTheme: dark
