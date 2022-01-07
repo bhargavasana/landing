@@ -7,3 +7,8 @@ theme: PaperMod
 params:
     defaultTheme: dark
     disableThemeToggle: true
+    
+    homeInfoParams:
+        Title: Welcome to Jyotsi !
+        Content: "Our mission is simple - Provide Data Insights"
+        
