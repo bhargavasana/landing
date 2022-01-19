@@ -7,8 +7,11 @@ theme: PaperMod
 params:
     defaultTheme: dark
     disableThemeToggle: true
+    label: 
+        icon: "logo.svg"
+        iconHeight: "60px"
+        text: " "
     
     homeInfoParams:
         Title: Welcome to Jyotsi !
         Content: "Our mission is simple - Provide Data Insights"
-        
